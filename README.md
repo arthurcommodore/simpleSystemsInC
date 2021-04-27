@@ -1,4 +1,3 @@
 # simpleSystemsInC
 
-Pequenos sistemas em C. 
-Foram criados no intuito de exercitação nos conceitos aprendidos.
+Pequenos sistemas em C, no intuito de exercitação nos conceitos aprendidos.
